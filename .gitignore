@@ -1,0 +1,42 @@
+# Arquivos de compilação e executáveis
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Diretórios gerados
+bin/
+build/
+dist/
+*.dSYM/  # Pastas de depuração do macOS
+
+# Arquivos do sistema e IDEs
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.cache
+
+# Dependências e ferramentas externas
+deps/
+external/
+
+# Arquivos gerados pelo Makefile
+Makefile.in
+autom4te.cache/
+config.status
+config.log
+
+# Documentação gerada
+docs/_build/
+*.aux
+*.toc
+*.log
