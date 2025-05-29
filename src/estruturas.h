@@ -39,7 +39,7 @@ typedef struct
     int total_acessos; // Total de acessos à memória
     int page_faults;   // Total de page faults ocorridos
     // Algoritmo de substituição atual
-    int algoritmo; // 0=FIFO , 1=LRU, 2=CLOCK , 3=RANDOM , 4=CUSTOM
+    int algoritmo; // 0=FIFO , 1=LRU
 } Simulador;
 
 #endif
