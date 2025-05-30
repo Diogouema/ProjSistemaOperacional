@@ -12,8 +12,8 @@ Os integrantes do grupo são:
 # Quais passos para rodar o projeto?
 
 1. Clonar o repositório
-'git clone https://github.com/Diogouema/ProjSistemaOperacional.git'
-'cd src'
+'''git clone https://github.com/Diogouema/ProjSistemaOperacional.git'''
+'''cd src'''
 
 2. Verificar a Estrutura de Arquivos
 📁 src
