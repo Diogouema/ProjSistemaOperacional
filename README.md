@@ -12,14 +12,14 @@ Os integrantes do grupo são:
 # Quais passos para rodar o projeto?
 
 1. Clonar o repositório
-'''
+```
 git clone https://github.com/Diogouema/ProjSistemaOperacional.git
-'''
-'''
+```
+```
 cd src
-'''
+```
 
-3. Verificar a Estrutura de Arquivos
+2. Verificar a Estrutura de Arquivos
 📁 src
  ┣ 📁 output
  ┣ 📄 algoritmos.c
@@ -27,18 +27,18 @@ cd src
  ┣ 📄 estruturas.h
  ┗ 📄 simulador.c
 
-4. Compilar o projeto
+3. Compilar o projeto
 
 Linux/macOS:
-'gcc simulador.c algoritmos.c -o simulador'
+```gcc simulador.c algoritmos.c -o simulador```
  
 Windows (usando MinGW):
-'gcc simulador.c algoritmos.c -o simulador'
+```gcc simulador.c algoritmos.c -o simulador```
 
 4. Executar o Programa
 
 Linux/macOS:
-'./simulador'
+```./simulador```
 
 Windows:
-'simulador.exe'
+```simulador.exe```
