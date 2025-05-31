@@ -20,25 +20,34 @@ cd src
 ```
 
 2. Verificar a Estrutura de Arquivos
+```
 📁 src
  ┣ 📁 output
  ┣ 📄 algoritmos.c
  ┣ 📄 algoritmos.h
  ┣ 📄 estruturas.h
  ┗ 📄 simulador.c
-
+```
 3. Compilar o projeto
 
 Linux/macOS:
-```gcc simulador.c algoritmos.c -o simulador```
+```
+gcc simulador.c algoritmos.c -o simulador
+```
  
 Windows (usando MinGW):
-```gcc simulador.c algoritmos.c -o simulador```
+```
+gcc simulador.c algoritmos.c -o simulador
+```
 
 4. Executar o Programa
 
 Linux/macOS:
-```./simulador```
+```
+./simulador
+```
 
 Windows:
-```simulador.exe```
+```
+simulador.exe
+```
